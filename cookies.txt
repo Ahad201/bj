@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.bitewithzest.com	TRUE	/	FALSE	1999999999	csrftoken	bXAzYfBFN49D8TKMsqH2MDr8gWWxJIGX0KGY1avpjihpco9Ck5ZEh9PlL73aP6Pc
+www.bitewithzest.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
